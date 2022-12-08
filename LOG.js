@@ -1,5 +1,5 @@
-let log = "Agustina";
-let password = "0618";
+let log = "Pinga";
+let password = "1289";
 let condicion1;
 let condicion2;
 
